@@ -1,46 +1,33 @@
-# ☁️ Day 1 of 100 – Azure Static Portfolio Website
+Day 1 of 100 - Azure Static Portfolio Website
 
-Welcome to Day 1 of my **#100DaysOfCloudDeployment** challenge
+Welcome to Day 1 of my #100DaysOfCloudDeployment challenge
 
-Today, I deployed a **professional static cloud portfolio site** using **Azure App Service** on the **Free (F1)** tier.
+Today, I deployed a professional static cloud portfolio site using Azure App Service on the Free (F1) tier.
+About the Project
 
----
+This is not a Hello World it's a beautifully styled HTML + CSS profile card showing my skills, contact links and cloud role. It’s hosted on Azure and styled with a custom gradient, emojis and responsive layout.
 
-## 👩🏾‍💻 About the Project
+Tools & Technologies
+•	Azure App Service (Windows, .NET F1)
+•	App Service Editor (Kudu)
+•	Static HTML with CSS
+•	Font: Google Poppins
+•	Responsive design + buttons + emoji
 
-This is **not a Hello World** it's a beautifully styled **HTML + CSS profile card** showing my skills, contact links and cloud role. It’s hosted on Azure and styled with a custom gradient, emojis and responsive layout.
-
----
-
-## 🔧 Tools & Technologies
-
-- Azure App Service (Windows, .NET F1)
-- App Service Editor (Kudu)
-- Static HTML with CSS
-- Font: Google Poppins
-- Responsive design + buttons + emoji
-
----
-
-## 🚀 Deployment Steps
-
-1. **Created App Service** on Azure (Windows, F1).
-2. Opened **App Service Editor** (Kudu).
+Deployment Steps
+1. Created App Service on Azure (Windows, F1).
+2. Opened App Service Editor (Kudu).
 3. Replaced `wwwroot/index.html` with this custom portfolio HTML.
-4. Opened the app’s URL in the browser — boom! 💥
+4. Opened the app’s URL in the browser boom.
 5. Took screenshots and then deleted the resource group.
 
+Live Demo
+[View Live Site](https://abby-cloud-portfolio-dyehd4gjg4baenek.uksouth-01.azurewebsites.net)
 
-## 🧠 What I Learned
+What I Learned
+•	How to create and style a personal portfolio site using plain HTML/CSS.
+•	How to deploy to Azure App Service without writing backend code.
+•	How to manage cloud resources wisely and delete after use.
 
-- How to create and style a **personal portfolio site** using plain HTML/CSS.
-- How to deploy to **Azure App Service** without writing backend code.
-- How to manage cloud resources wisely and delete after use.
-
----
-
-✅ This project has been **deleted on Azure** (to save cost), but lives here on GitHub as **proof of work** for recruiters and collaborators.
-
----
-
+This project has been deleted on Azure (to save cost) but lives here on GitHub as proof of work for recruiters and collaborators.
 #Azure #CloudEngineer #100DaysOfCloudDeployment #GitHubPortfolio #LearningInPublic #WomenInCloud
